@@ -1,0 +1,6 @@
+pet_id,category_id,category_name,name,tags_id,tags_name,status,status_code
+404601,1,dog,Abreu,1,vacinado,disponivel,200
+404602,2,cat,Amora,2,castrado,vendido,200
+404603,3,fish,Nemo,0,,disponivel,200
+404604,2,cat,Mingau,1,vacinado,disponivel,200
+40465,1,dog,Scooby,1,vacinado,vendido,200
